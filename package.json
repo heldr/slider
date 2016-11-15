@@ -27,7 +27,7 @@
   "entry": {
     "rc-slider": ["./assets/index.less", "./src/index.js"]
   },
-  "style": "./assets/index.css",
+  "style": "./dist/rc-slider.css",
   "config": {
     "port": 8005
   },
